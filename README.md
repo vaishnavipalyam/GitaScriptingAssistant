@@ -12,7 +12,7 @@ An end-to-end automation tool that streamlines the process of generating and del
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 - **Frontend/UI**: Gradio  
 - **AI Model**: GPT-4o-mini (OpenAI)  
 - **Authentication**: Google Cloud API  
@@ -30,8 +30,8 @@ An end-to-end automation tool that streamlines the process of generating and del
 ---
 
 ##  Demo  
-![Demo UI Screenshot](./assets/demo.png)  
-![Demo mail Screenshot](./assets/demo.png)
+![Demo UI Screenshot](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/UI.JPG) 
+![Demo mail Screenshot](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/response_mail.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ An end-to-end automation tool that streamlines the process of generating and del
 3. Analytics dashboard to track usage.
 
 4. Integration with video editing workflows.
-5. 
+   
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
