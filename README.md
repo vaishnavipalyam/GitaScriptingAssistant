@@ -1,7 +1,7 @@
 # GitaScriptingAssistant
 An end-to-end automation tool that streamlines the process of generating and delivering customized video scripts. The project allows a user to simply fill in a form with basic details about their video, and within seconds, a professionally generated script arrives directly in their inbox.
 
-![cover](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/cover.png)
+![cover](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/cover.png){: width="250" height="400"}
 
 ##  Features  
 - **User-Friendly UI**: Built with [Gradio](https://www.gradio.app/) for seamless input and interaction.  
@@ -30,8 +30,8 @@ An end-to-end automation tool that streamlines the process of generating and del
 ---
 
 ##  Demo  
-![Demo UI Screenshot](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/UI.JPG) 
-![Demo mail Screenshot](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/response_mail.jpg)
+![Demo UI Screenshot](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/UI.JPG){: width="400" height="250"}
+![Demo mail Screenshot](https://github.com/vaishnavipalyam/GitaScriptingAssistant/blob/main/artefacts/response_mail.jpg){: width="50" height="100"}
 
 ---
 
